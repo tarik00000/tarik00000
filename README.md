@@ -1,4 +1,4 @@
-![MasterHead](https://yt3.googleusercontent.com/lFgxJX-b_exxzkSK72UVIoFWxEEz2MCodtVyVNnmORq9BlPF8MAEHEr4rc5iUvzCCMLoB6q-lA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![MasterHead]([https://yt3.googleusercontent.com/lFgxJX-b_exxzkSK72UVIoFWxEEz2MCodtVyVNnmORq9BlPF8MAEHEr4rc5iUvzCCMLoB6q-lA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Finternet-programming&psig=AOvVaw0OKnCdLujBoSSjkWDdccgn&ust=1745766591722000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCdhsD99YwDFQAAAAAdAAAAABAY))
 <h1 align="center">Hi 👋, I'm Tarik</h1>
 <h3 align="center">A passionate programer from Bosnia and Herzegovina</h3>
 <img align="right" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding"> 
