@@ -1,4 +1,4 @@
-<img align="right" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Finternet-programming&psig=AOvVaw0OKnCdLujBoSSjkWDdccgn&ust=1745766591722000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCdhsD99YwDFQAAAAAdAAAAABAY)" alt="Coding"> 
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Finternet-programming&psig=AOvVaw0OKnCdLujBoSSjkWDdccgn&ust=1745766591722000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCdhsD99YwDFQAAAAAdAAAAABAY" alt="Coding"> 
 <h1 align="center">Hi 👋, I'm tarik</h1>
 <h3 align="center">A passionate programer from Bosnia and Herzegovina</h3>
 
