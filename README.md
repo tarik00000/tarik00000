@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://instagram.com/semaxta7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semaxta7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/semax&&ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="semax&&ta" height="30" width="40" /></a>
-<a href="semaxta.wuaze.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://semaxta.wuaze.com" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
