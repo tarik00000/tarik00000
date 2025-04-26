@@ -2,9 +2,9 @@
 <h3 align="center">A passionate programer from Bosnia and Herzegovina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarik00000&label=Profile%20views&color=0e75b6&style=flat" alt="tarik00000" /> </p>
-<img align="right" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding"> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarik00000" alt="tarik00000" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarik00000" alt="tarik00000" /></a> </p>
+<img align="right" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding"> 
 - 🌱 I’m currently learning **react native**
 
 - 💬 Ask me about **web development,hardware,microcontrollers**
