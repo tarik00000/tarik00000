@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tarik</h1>
+<h1 align="center">Hi 👋, I'm Tarik</h1>
 <h3 align="center">A passionate programer from Bosnia and Herzegovina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarik00000&label=Profile%20views&color=0e75b6&style=flat" alt="tarik00000" /> </p>
