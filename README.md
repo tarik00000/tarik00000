@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tare.po08@gmail.com**
 
-- ⚡ Fun fact **I love nature and to run**
+- ⚡ Fun fact **I love nature and running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
